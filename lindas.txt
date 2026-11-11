@@ -1,4 +1,4 @@
 heute ist mittwoch
-heute scheint die sonne
+morgen scheint die sonne 
 die zeile darüber ist leer
 ...
