@@ -1,4 +1,4 @@
 heute ist mittwoch
-nicht mehr leer
+noch nicht leer
 die zeile darüber ist leer
 ...
